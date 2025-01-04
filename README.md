@@ -8,10 +8,10 @@ A Discord bot that provides real-time weather updates. The bot allows users to g
 - Allows users to set a default location
 
 **Commands**
-- !hello : The bot greets the user
+- `!hello` : The bot greets the user
   
-- !weather : Displays the weather for your **default location** (if set)
+- `!weather` : Displays the weather for your **default location** (if set)
   
-- !weather <city> : Retrieves the weather for a specific **city** 
+- `!weather <city>` : Retrieves the weather for a specific **city** 
 
-- !setlocation <city> : Allows the users to set a default **city / location**
+- `!setlocation <city>` : Allows the users to set a default **city / location**
