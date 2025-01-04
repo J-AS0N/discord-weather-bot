@@ -2,7 +2,7 @@
 
 A Discord bot that provides real-time weather updates. The bot allows users to get weather updates such as the current weather, temperature, humidity, wind speed, etc
 
-Key Features 
+**Key Features **
 - **Built using discord.py**, a Python library that interacts with the Discord API
 - Fetches weather data through **OpenWeatherMap API**
 - Allows users to set a default location
