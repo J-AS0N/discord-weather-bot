@@ -1,0 +1,10 @@
+# Ignore .env files
+.env
+
+# Ignore Python virtual environments
+bot-env/
+
+# Ignore other files
+user_preference.json
+
+
